@@ -11,7 +11,7 @@ Toggle := 0
 ; Create a GUI for indicating script status
 Gui +AlwaysOnTop  +ToolWindow -Caption
 Gui, Add, Text, vStatus, Inactive
-Gui, Show, x0 y1055, Status
+Gui, Show, x0 y1055, Status ; Change X, Y cords to suit monitor res set to bottem left 1920x1080
 
 ; Make the GUI slightly transparent
 WinGet, hWnd, ID, Status
