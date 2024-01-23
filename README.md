@@ -6,7 +6,7 @@ The hotkey is set to use mouse5 as the toggle button but this can be changed to 
 
 Change line 21 - XButton2::  [AHKs List of Keys](https://www.autohotkey.com/docs/v1/KeyList.htm)
 
-The UI x, y can also be changed to suit where ever you want it or just remove it. 
+The UI x, y can also be changed to suit where ever you want it.
 
 Change line 14 x, y to suit. best placed lower on the screen to reduce clicking the ui which pulls focus.
 
