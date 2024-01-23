@@ -15,7 +15,7 @@ Gui, Show, x0 y1055, Status
 
 ; Make the GUI slightly transparent
 WinGet, hWnd, ID, Status
-WinSet, Transparent, 100, ahk_id %hWnd%
+WinSet, Transparent, 100, ahk_id %hWnd% ; Adjust the "100" value to set the level of transparency (0 to 255, where 0 is completely transparent and 255 is opaque).
 
 ; Define hotkey for Mouse5 (XButton2) to toggle the script
 XButton2::
