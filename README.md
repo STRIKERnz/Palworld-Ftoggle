@@ -8,7 +8,7 @@ Change line 21 - XButton2::  [AHKs List of Keys](https://www.autohotkey.com/docs
 
 The UI x, y can also be changed to suit where ever you want it.
 
-Change line 14 x, y to suit. best placed lower on the screen to reduce clicking the ui which pulls focus.
+Change line 14 x, y to suit.
 
 
 The UI just adds an active/incative text down the bottom left.
