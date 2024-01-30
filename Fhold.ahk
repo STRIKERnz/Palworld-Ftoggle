@@ -9,7 +9,7 @@ if not A_IsAdmin
 Toggle := 0
 
 ; Create a GUI for indicating script status
-Gui +AlwaysOnTop  +ToolWindow -Caption
+Gui +AlwaysOnTop  +ToolWindow -Caption +E0x20
 Gui, Add, Text, vStatus, Inactive
 Gui, Show, x0 y1055, Status ; Change X, Y cords to suit monitor res, currently set to bottem left 1920x1080
 
